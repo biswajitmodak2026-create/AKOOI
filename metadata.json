@@ -1,0 +1,6 @@
+{
+  "name": "AKOOL Studio",
+  "description": "Zero-API local AI video generator, voice-to-video creator, photo editor, and video editor with flexible subscription plans.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
